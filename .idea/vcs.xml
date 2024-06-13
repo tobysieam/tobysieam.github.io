@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/First" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tobysieam.github.io" vcs="Git" />
   </component>
 </project>
