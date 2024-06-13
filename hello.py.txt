@@ -1,0 +1,5 @@
+#1.python程序文件的后缀是.py
+#2.print语句的作用是输出内容
+#3.输出的内容就是写的内容
+#4.在python中#表示注释，不会被执行
+print("hello,world")
