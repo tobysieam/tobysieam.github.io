@@ -23,3 +23,13 @@ print("n6=",n6)
 # sys.float_info可以知道浮点类型支持的最大和最小数
 # 浮点类型计算后，存在精度的损失，可以使用Decimal类进行精度计算
 
+b=8.1/3
+print("b=",b)
+
+#1、 解决浮点数精度问题（使用Decimal类进行精度计算）
+#2、 如果使用Decimal类，需要导入Decimal类
+# 导入Decimal类
+from decimal import Decimal
+
+b=Decimal("8.1")/Decimal("3")
+print("b=",b)
