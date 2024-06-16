@@ -30,3 +30,4 @@ print('''a small animal with fur, four legs, a tail, and claws, usually kept as 
 #5、在字符串前面加'r'可以使整个字符串不会被转义（比如输出文件地址）
 str4=r"jack\ntom\tking"
 print(str4)
+
