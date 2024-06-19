@@ -14,5 +14,5 @@ print(type(i)) #float
 print(type(j)) #float
 
 print(i)      #11.0
-print(int(i)) #11
+print(int(i)) #11 并没有赋值给任何变量
 print(type(i)) #float
